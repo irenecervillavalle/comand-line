@@ -1,0 +1,15 @@
+1. pwd
+2.ls -a
+3.find . -type f
+4.clear
+5.cd small-name/*/
+  cat trophy.txt
+6.mkdir funcode/the-most-funny/not-that-funny
+7.mv funcode/kids.jpg funcode/images/hello/
+8.rm -r small-name
+9.rm -r boringfolder/*
+10.vi kamehameha/dragon-ball-jokes.md
+11.vi kamehameha/dragon-ball-jokes.md
+   `dd`
+    `w`
+    `q`
